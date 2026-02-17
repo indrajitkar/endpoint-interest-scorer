@@ -66,6 +66,9 @@ https://example.com/admin/login
 https://example.com/rest/products
 https://example.com/graphql
 ```
+<p align="center">
+  <img src="images/usage.png" alt="Usage Example" width="800"/>
+</p>
 
 Comments (lines starting with `#`) and empty lines are ignored.
 
@@ -163,3 +166,4 @@ The tool handles:
 ## License
 
 This tool is provided as-is for educational and security research purposes.
+
